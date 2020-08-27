@@ -7,7 +7,7 @@
 first download the model data from:
 链接: https://pan.baidu.com/s/1I7_v9sMvNZb37E7I19WJ1A 提取码: yrfq
 
-the model files should in the same directory of antabobaofenlei.py
+the model files should in the same directory of api.py
 
 ## prepare python enviroment
 
